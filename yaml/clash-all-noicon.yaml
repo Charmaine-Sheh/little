@@ -7,7 +7,7 @@
 proxy-providers:
 
   SUB:
-    url: "http://202504030133431.chibaba.ggff.net/api/v1/client/subscribe?token=2296b7a6ad0e154a2e0f6983f31ece59"
+    url: ""
     type: http
     interval: 86400
     health-check:
